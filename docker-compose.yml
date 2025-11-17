@@ -41,7 +41,7 @@ name: Selenoid Tests Workflow
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   run-selenoid-tests:
